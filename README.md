@@ -19,7 +19,7 @@ To obtain a YouTube API key, you need to follow these steps:
 7-Next, click on "Create Credentials" and select "API key".  
 8-Your API key will be generated, and you can copy and paste it into your code.  
 
-# How to obtain a OpenAI API key?
+# How to obtain an OpenAI API key?
 
 To obtain a OpenAI API key, you need to follow these steps:
 
