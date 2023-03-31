@@ -4,8 +4,7 @@
 
 # Requirements
 
-Use the command **pip install -r requirements.txt** to install the required modules.  
-Or just run **pip install openai** and **pip install google-api-python-client** commands to install the required packages.  
+Run **pip install openai** and **pip install google-api-python-client** commands to install the required packages.  
 
 # How to obtain a YouTube API key?
 
