@@ -4,7 +4,8 @@
 
 # Requirements
 
-Use the command **pip install -r requirements.txt** to install the required modules.
+Use the command **pip install -r requirements.txt** to install the required modules.  
+Or just run **pip install openai** and **pip install google-api-python-client** commands to install the required packages.  
 
 # How to obtain a YouTube API key?
 
@@ -18,10 +19,12 @@ To obtain a YouTube API key, you need to follow these steps:
 6-Click on the "Enable" button.  
 7-Next, click on "Create Credentials" and select "API key".  
 8-Your API key will be generated, and you can copy and paste it into your code.  
+[Click here for the tutorial video](https://www.youtube.com/watch?v=N18czV5tj5o)
+
 
 # How to obtain an OpenAI API key?
 
-To obtain a OpenAI API key, you need to follow these steps:
+To obtain an OpenAI API key, you need to follow these steps:
 
 1-Go to the OpenAI website and create an account if you don't already have one.  
 2-Once you're logged in, navigate to the "API" section of your account dashboard.  
@@ -32,6 +35,8 @@ To obtain a OpenAI API key, you need to follow these steps:
 7-Click on the "Create API key" button to generate your key.  
 8-Copy the API key and save it in a secure location, such as a password manager or a file on your computer.  
 9-Your API key will be generated, and you can copy and paste it into your code.  
+[Click here for the tutorial video](https://www.youtube.com/watch?v=nafDyRsVnXU)
+
 
 # Set the YouTube API key and OpenAI API key in the code
 ![setapikey](https://user-images.githubusercontent.com/90471911/228939662-648956b4-a330-41b4-8086-299b47ccad72.jpg)
