@@ -39,3 +39,7 @@ To obtain an OpenAI API key, you need to follow these steps:
 
 # Set the YouTube API key and OpenAI API key in the code
 ![setapikey](https://user-images.githubusercontent.com/90471911/228939662-648956b4-a330-41b4-8086-299b47ccad72.jpg)
+
+# Have Fun!
+
+![howtotie](https://user-images.githubusercontent.com/90471911/229121146-e8920c34-b1e3-4685-80fc-40ceca4d6943.jpg)
