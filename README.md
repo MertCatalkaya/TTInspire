@@ -3,9 +3,10 @@
  TTInspire is a Python application that generates new video ideas on a given topic, based on the popular videos on YouTube. It utilizes the Google's YouTube API and OpenAI's GPT-3.5 language model to suggest creative and innovative video concepts. Simply enter the topic you're interested in, and the application will search for popular YouTube videos on that topic and generate three new video ideas based on the titles. The video ideas are intended to inspire and stimulate the imagination of content creators looking for fresh and original ideas for their YouTube channels.
 
 # Requirements
-
-Run **pip install openai** and **pip install google-api-python-client** commands to install the required packages.  
-
+You can install the necessary modules by running this code in the terminal.
+```
+pip install openai google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client
+```
 # How to obtain a YouTube API key?
 
 To obtain a YouTube API key, you need to follow these steps:
@@ -25,7 +26,7 @@ To obtain a YouTube API key, you need to follow these steps:
 
 To obtain an OpenAI API key, you need to follow these steps:
 
-1-Go to the OpenAI website and create an account if you don't already have one.  
+1-Go to the OpenAI website and create an account if you don't already have one.(https://openai.com/)  
 2-Once you're logged in, navigate to the "API" section of your account dashboard.  
 3-Click on the "Create API key" button.  
 4-Select the API plan that you want to use (e.g. the free plan or a paid plan).  
@@ -41,5 +42,4 @@ To obtain an OpenAI API key, you need to follow these steps:
 ![setapikey](https://user-images.githubusercontent.com/90471911/228939662-648956b4-a330-41b4-8086-299b47ccad72.jpg)
 
 # Have Fun!
-
 ![howtotie](https://user-images.githubusercontent.com/90471911/229121146-e8920c34-b1e3-4685-80fc-40ceca4d6943.jpg)
