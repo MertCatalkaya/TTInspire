@@ -1,7 +1,6 @@
-# TTInspire
 [Türkçe BENİOKU](https://notes.io/q8Ta7)
 
- 
+# TTInspire
  TTInspire is a Python application that generates new video ideas on a given topic, based on the popular videos on YouTube. It utilizes the Google's YouTube API and OpenAI's GPT-3.5 language model to suggest creative and innovative video concepts. Simply enter the topic you're interested in, and the application will search for popular YouTube videos on that topic and generate three new video ideas based on the titles. The video ideas are intended to inspire and stimulate the imagination of content creators looking for fresh and original ideas for their YouTube channels.
 
 # Requirements
