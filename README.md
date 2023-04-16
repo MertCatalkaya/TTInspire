@@ -44,15 +44,11 @@ To obtain an OpenAI API key, you need to follow these steps:
 # Have Fun!
 ![howtotie](https://user-images.githubusercontent.com/90471911/229121146-e8920c34-b1e3-4685-80fc-40ceca4d6943.jpg)
 
-## To use Tkinter GUI
+## If you want to use Tkinter GUI
 # Requirements
 
 Installing Tkinter with Pip
 Once you have made sure that you have all the prerequisites installed and also that there is no built-in tkinter with your python package, simply install the Tkinter using the following pip command:
-
-
-
-## Installation
 
 ```bash
   pip install tk
