@@ -42,6 +42,26 @@ To obtain an OpenAI API key, you need to follow these steps:
 # Set the YouTube API key and OpenAI API key in the code
 ![setapikey](https://user-images.githubusercontent.com/90471911/228939662-648956b4-a330-41b4-8086-299b47ccad72.jpg)
 
+## For tkinter
+# Requirements
+
+Installing Tkinter with Pip
+Once you have made sure that you have all the prerequisites installed and also that there is no built-in tkinter with your python package, simply install the Tkinter using the following pip command:
+'''pip install tk''', '''pip install tkinter'''
+
+
+## Installation
+
+```bash
+  pip install tk
+
+  pip install tkinter
+```
+    
+## Screenshots
+
+![App Screenshot](https://ibb.co/RjHR71q)
+
 # Have Fun!
 ![howtotie](https://user-images.githubusercontent.com/90471911/229121146-e8920c34-b1e3-4685-80fc-40ceca4d6943.jpg)
 
